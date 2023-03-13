@@ -1,0 +1,9 @@
+Python program to find the smallest number in a list using a function
+
+The above Python program defines a function named find_smallest_number that takes a list of numbers as input and returns the smallest number in the list.
+
+The function initializes the smallest variable to the first number in the list and then iterates over the rest of the numbers in the list. For each number, it checks whether the number is smaller than the current smallest number. If it is, then the smallest variable is updated to the new smallest number.
+
+Finally, the function returns the smallest number in the list.
+
+The program then tests the function by calling it with the input list [5, 7, 9, 14, 10, 20, 4] and prints the result, which is 4, the smallest number in the list.
